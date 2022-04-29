@@ -1,0 +1,51 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  text-align: left;
+}
+
+#result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+  position:absolute; 
+  left: 300px;
+  top:0px;
+}
+
+#snapshot
+{
+  position:absolute; 
+  left: 450px;
+  bottom:40px;
+}
+
+#check
+{
+  position:absolute; 
+  left: 450px;
+  top: 330px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+hr 
+{
+  width: 50px;
+}
